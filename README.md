@@ -1,14 +1,14 @@
 ChromediaTakeHome Exam
 
-Solution Projects
-- Models
-- Services
-- Web (MVC with REACT)
+Solution consists of:
+- PrinceChavez.Chromedia.Models
+- PrinceChavez.Chromedia.Services
+- PrinceChavez.Chromedia.Web (MVC with REACT) - start up project
 
 Instructions
 - Clone the repo
 - Right click Solution => Restore NuGet Packages (for NewtonSoft.Json in the Service Project)
-- Right click PrinceChavez.Chromedia.Web project => Set As Startup 
+- Right click `PrinceChavez.Chromedia.Web` project => `Set As Startup`
 
 Notes: 
 - Requires NODE.js on the machine (for running React)
